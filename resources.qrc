@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file>qml/Main.qml</file>
+    <file>qml/Theme.qml</file>
+    <file>qml/qmldir</file>
+    <file>qml/components/GlassPanel.qml</file>
+    <file>qml/components/GlassButton.qml</file>
+    <file>qml/components/IconButton.qml</file>
+    <file>qml/components/ProgressRing.qml</file>
+    <file>qml/components/TimerOrb.qml</file>
+    <file>qml/components/StepperRow.qml</file>
+    <file>qml/components/ToggleRow.qml</file>
+    <file>qml/components/SliderRow.qml</file>
+    <file>qml/components/StatCard.qml</file>
+    <file>qml/components/SegmentedControl.qml</file>
+    <file>qml/components/TaskInputRow.qml</file>
+    <file>qml/components/ThemeCard.qml</file>
+    <file>qml/components/ColorSwatch.qml</file>
+    <file>qml/components/BottomTabBar.qml</file>
+    <file>qml/components/SettingsPanel.qml</file>
+    <file>shaders/glass.frag</file>
+    <file>shaders/orb.frag</file>
+  </qresource>
+</RCC>

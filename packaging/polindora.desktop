@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Polindora
+Comment=Premium Pomodoro workflow app
+Exec=polindora
+Icon=polindora
+Terminal=false
+Categories=Utility;Productivity;
